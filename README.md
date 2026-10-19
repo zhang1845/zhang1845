@@ -10,7 +10,7 @@ AI Builder，关注本地 AI 工作流、多模型对比和可运行的交互原
   基于 DeepSeek Harness 定制的本地 AI 工作台。
 
 - [comparison-ai](https://github.com/zhang1845/comparison-ai)  
-  五席，一条问题，五个模型并排作答。
+  多模型工作台，一条问题，五个模型并排作答。
 
 - [teleprompter-local](https://github.com/zhang1845/teleprompter-local)  
   从容提词器，支持镜像、调速、倒计时和本地录音的中文提词工具。
