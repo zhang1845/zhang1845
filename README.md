@@ -6,12 +6,6 @@
 
 <p align="center"><samp>AI Builder · 把日常需求做成顺手的工具</samp></p>
 
-<p align="center">
-  <a href="https://github.com/zhang1845?tab=repositories">projects</a> ·
-  <a href="https://github.com/zhang1845/SKILL">skills</a> ·
-  <a href="https://github.com/zhang1845/zhang1845/issues">contact</a>
-</p>
-
 <br>
 
 ### Featured projects
@@ -39,4 +33,5 @@
 本地 AI 与 Agent 工作流 · 多模型体验 · 可复用 Skills · 交互原型
 
 欢迎通过 [GitHub Issues](https://github.com/zhang1845/zhang1845/issues) 交流项目想法和使用反馈。
+
 
